@@ -28,6 +28,10 @@ const About = () => {
               novels, or experimenting with new recipes in the kitchen. I believe in continuous learning 
               and pushing my boundaries both professionally and personally.
             </p>
+            <p className="text-lg">
+              The portrait on my homepage represents how I view creativity and technology - 
+              as transformative forces that can reshape our thinking and expand in unexpected directions.
+            </p>
           </div>
           
           <div className="grid grid-cols-2 gap-6">
